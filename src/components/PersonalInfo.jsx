@@ -1,7 +1,7 @@
 function PersonalInfo() {
   return (
     <>
-<section className="flex columns-2 justify-evenly mt-8 mb-4 bg-blue-300 rounded-xl p-4 shadow-md overflow-hidden min-w-[745px]">
+<section className="flex columns-2 justify-evenly mt-8 mb-4 bg-blue-200 rounded-xl p-4 shadow-md overflow-hidden min-w-[745px]">
 
 <div className="flex justify-center flex-col items-center">
         <svg
